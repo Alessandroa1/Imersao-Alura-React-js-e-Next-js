@@ -1,5 +1,5 @@
 {
-    "bg": "https://articles.gamerheadquarters.com/images/top10/movies/10.jpg",
+    "bg": "https://maquinapop.com.br/wp-content/uploads/2007/06/Guitarra-m%C3%BAsica-de-hard-rock-768x1024.jpg",
     "title": "Quiz CSS da Alura",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
@@ -31,8 +31,8 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#009688",
-        "secondary": "#2979ff",
+        "primary": "#ff5722",
+        "secondary": "#f50057",
         "mainBg": "#171B35",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
