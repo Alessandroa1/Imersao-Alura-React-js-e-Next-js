@@ -1,28 +1,42 @@
 {
     "bg": "https://maquinapop.com.br/wp-content/uploads/2007/06/Guitarra-m%C3%BAsica-de-hard-rock-768x1024.jpg",
     "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "description": "Teste os seus conhecimentos sobre Rock n' Roll e vamos ver se você é fera!",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
+        "image": "https://media3.giphy.com/media/1toWE6hxIS6UE/giphy.gif",
+        "title": "Qual o nome do Rei do rock?",
         "description": "Essa é pra aquecer",
-        "answer": 2,
+        "answer": 3,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Elvis Presley",
+          "Elvis da Silva Presley",
+          "Elvis Bartnikowsky Presley",
+          "Elvis Aaron Presley"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
+        "image": "https://4.bp.blogspot.com/-XSFYmUdH-W0/VPXyIJdDX2I/AAAAAAAAMqw/TeySm5CDSUY/s1600/Rock%2B9.gif",
+        "title": "Qual destas bandas não tocou no Rock in Rio 1985?",
         "description": "Faz tempo em haha",
+        "answer": 1,
+        "alternatives": [
+           "Queen;",
+           "Barões da Pisadinha;",
+           "Scorpions;",
+           "Os Paralamas do Sucesso;"
+        ]
+      },
+      {
+        "image": "https://media2.giphy.com/media/yr6VVsb27K0es/200.gif",
+        "title": "Qual o nome do guitarrista da banda Queen?",
+        "description": "Molezinha",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Brian May;",
+           "John Deacon;",
+           "Roger Taylor;",
+           "Freddie Mercury;"
         ]
       }
     ],
