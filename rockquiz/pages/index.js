@@ -72,7 +72,7 @@ export default function Home() {
             <h1>Quiz da Galera</h1>
             </Widget.Header>
          <Widget.Content>           
-         <p>loren ipsum</p>  
+         <p>Um jogo divertido para você testar seus conhecimentos e desafiar seus amigos!</p>  
          </Widget.Content>  
         </Widget>
         <Footer/>    
